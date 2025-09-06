@@ -6,7 +6,7 @@ const TypewriterNelsonPage = () => {
   const [showSubtitle, setShowSubtitle] = useState(false);
   const [floatingTexts, setFloatingTexts] = useState([]);
 
-  const text = "IRASUBIZA SALY Nelson";
+  const text = "Please Protect Your Data or ask engineers like  CISO to help you";
 
   useEffect(() => {
     let i = 0;
